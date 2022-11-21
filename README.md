@@ -28,8 +28,9 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/william-lillis-7653b2a2/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  - 📫 How to reach me **williamlillis100@gmail.com**
+</a>
+  <br>
+- 📫 How to reach me **williamlillis100@gmail.com**
 </div>  
   
 
