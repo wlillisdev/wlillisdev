@@ -1,10 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm William, a Junior full-stack developer 👨‍💻 looking to develop my skills and collaborate on projects 🚀</div>  
-  
+### <div align="center">I'm William, a Junior full-stack developer 👨‍💻 looking to develop my skills and collaborate on projects 🚀</div>    
 
 - 🔭 I’m currently working on [Tasty Tipples](https://github.com/wlillisdev/tasty_tipples)  
   
