@@ -42,10 +42,7 @@
 
 <br>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=William&&style=flat-square" align="center" />
