@@ -23,7 +23,7 @@
 
 ## Connect with me  
 <div align="center">
-<span><a href = "mailto:william.lillis.williamlillis100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></span>
+<span><a href = "williamlillis100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></span>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/william-lillis-7653b2a2/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
