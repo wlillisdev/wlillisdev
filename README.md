@@ -47,6 +47,10 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=William&&style=flat-square" align="center" />
+</div>  
+
 
 
 
