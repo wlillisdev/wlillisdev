@@ -38,7 +38,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wlillisdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willlillisdev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
