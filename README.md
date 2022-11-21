@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm William, a Junior full-stack developer 👨‍💻 looking to develop my skills and collaborate on projects 🚀</div>    
+### <div align="center">I'm William, a passionate Junior full-stack developer 👨‍💻 looking to develop my skills and collaborate on projects along my codeing journey 🚀</div>    
 
 - 🔭 I’m currently working on [Tasty Tipples](https://github.com/wlillisdev/tasty_tipples)  
   
@@ -29,6 +29,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/william-lillis-7653b2a2/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+  - 📫 How to reach me **williamlillis100@gmail.com**
 </div>  
   
 
