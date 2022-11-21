@@ -40,6 +40,13 @@
 ## Github Stats  
 ![williams GitHub stats](https://github-readme-stats.vercel.app/api?username=wlillisdev&show_icons=true&theme=transparent)
 
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 
 
 
