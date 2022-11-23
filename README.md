@@ -2,14 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm William, a passionate Junior full-stack developer 👨‍💻 looking to develop my skills and collaborate on projects along my codeing journey 🚀</div>    
+### <div align="center">I'm William, a passionate Junior full-stack developer 👨‍💻 looking to develop my skills and collaborate on projects along my coding journey 🚀. Check out my pinned repos from my very first line of code i wrote in project 1 a html and CSS website Hudson Homes. To Tasty Tipples a full stack ecommerce website. </div>    
 
 - 🔭 I’m currently working on [Tasty Tipples](https://github.com/wlillisdev/tasty_tipples)  
   
-
-- 🌱 I’m currently learning React  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
